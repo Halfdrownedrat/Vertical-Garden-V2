@@ -1,1 +1,0 @@
-VG und VL werden Synonym verwendet auch wenn sie verschiedene Dinge bedeuten (Vertikaler Garten, Vertikale Landwirtschaft)
