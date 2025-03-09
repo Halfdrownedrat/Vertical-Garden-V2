@@ -1,0 +1,5 @@
+- Kostenintensiv
+- Nicht auf alles anwendbar
+- Sehr Technik Intensiv
+- Reduziert Arbeitsplätze
+- Benötigt Hoch Qualifizierte Arbeitskräfte in den Bereichen Informatik, Elektronik etc.
