@@ -7,7 +7,7 @@ The Following is what i might be able to use from my currently collected materia
 - PC Fans for air circulation
 - Heating Bars from old toaster 
 - Power Cables from random maschines
-- Cable Chrod (Kabeltrommel?) from vacuum cleaners
+- Cable chord (Kabeltrommel?) from vacuum cleaners
 - 
 
 ## Custom 3D Printing
