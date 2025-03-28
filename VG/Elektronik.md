@@ -1,30 +1,32 @@
+# Sensors
 
-# Sensoren
-## Temperatur
+## Temperature
 
-## Luftfeuchtigkeit
+## Humidity
 
-## Mineralien/ Nährstoffgehalt
+## Minerals/Nutrient Content
 
-## pH-Wert
+## pH Value
 
-# Pump/ Ventil Steuerung
+# Pump/Valve Control
 
-# Darstellung auf Displays
-- Sensor Werte
-	- Temperatur
-	- Feuchtigkeit
-	- Nährstoffgehalt
-	- ph-Wert
-- Zeit
-	- Datum
-	- Uhrzeit
-	- Zeit bis Ernte
-	- Zeit seit Anpflanzung
-	- Wetter draußen
-- Kultur
-	- Momentane Kultur
-	- Versuch Nummer
-- Sonstige Infos
+# Display Presentation
 
+- **Sensor Values**
+  - Temperature
+  - Humidity
+  - Nutrient Content
+  - pH Value
 
+- **Time**
+  - Date
+  - Time
+  - Time until Harvest
+  - Time since Planting
+  - Weather outside
+
+- **Culture**
+  - Current Crop
+  - Experiment Number
+
+- **Other Information**

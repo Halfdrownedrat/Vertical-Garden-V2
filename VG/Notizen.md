@@ -1,253 +1,235 @@
-# Notizen
-
+# Notes
 
 ## System types
-### Difference Active-Passiv System
+### Difference Active-Passive System
 Active:
 - Air pumps for increased plant/root growth and less stale water.
 - Water pumps for water circulation
-Passiv:
+Passive:
 - No pumps
 - Less moving parts --> Less expensive
-- Way more labor intensiv
-- Danger of algea growth or root spoilage
+- Way more labor intensive
+- Risk of algae growth or root spoilage
 
 ### Difference Circulation-Non Circulating System
-A circulating system constantly pumps water (in intervalls) through the system, insuring a steady stream of fresh water and oxygen for the roots.
-A non-C. system fills up once and only changes water with the water change.
+A circulating system constantly pumps water (in intervals) through the system, ensuring a steady stream of fresh water and oxygen for the roots. A non-circulating system fills up once and only changes water with the water change.
 
 ### Wick system
-- very old and simple
-- passiv system (non-C.)
-- Capillar effect pulls the solution to the roots
-- limited water transfer --> ineffizient and low returns
-- plants:
-    - water saving herbs
-
+- Very old and simple
+- Passive system (non-circulating)
+- Capillary effect pulls the solution to the roots
+- Limited water transfer --> Inefficient and low returns
+- Plants:
+  - Water-saving herbs
+  
 ### Deepwater culture
-- simple 
-- passiv syste, (non-C.)
-- high returns
-- roots are always (partly) submerged
-- high risk off oxygen deprevation --> Air pump highly recommendet
-- plants:
-    - leafy greens with low O² demand
-    - NOT deep rooting plants
-
+- Simple 
+- Passive system (non-circulating)
+- High returns
+- Roots are always (partly) submerged
+- High risk of oxygen deprivation --> Air pump highly recommended
+- Plants:
+  - Leafy greens with low O² demand
+  - NOT deep-rooting plants
+  
 ### Ebb and flood system
-- active, (circulating)
-- high returns
-- pump and valve periodicly empty and fill the root area
-- getting the cycles right is tricky
-- good O² flow
-- plants:
-    - plants from dry and wet areas
-    - big, blooming plants (tomatos, cucambors)
-    - meditaranian herbs
-
-### Dripsystem
-- active, (non-C. but not always)
-- very water effecient
-- feeds plants using small tubes, excess is collected and reused
-- requires more tech but allows more controll
-- plants:
-    - allows any kind but requires correct values
-
+- Active, (circulating)
+- High returns
+- Pump and valve periodically empty and fill the root area
+- Getting the cycles right is tricky
+- Good O² flow
+- Plants:
+  - Plants from dry and wet areas
+  - Big, blooming plants (tomatoes, cucumbers)
+  - Mediterranean herbs
+  
+### Drip system
+- Active, (non-circulating but not always)
+- Very water efficient
+- Feeds plants using small tubes, excess is collected and reused
+- Requires more tech but allows more control
+- Plants:
+  - Allows any kind but requires correct values
+  
 ### Nutrient-film-system (NFT-System)
-- active, (circulating)
-- thin stream of solution flows down an angled pipe along the roots
-- effecient
-- plants die extremly fast when a malfunction happens
-- plants:
-    - salads and herbs
-    - NOT heavy, strong rooting plants
-    - raspberrys
+- Active, (circulating)
+- Thin stream of solution flows down an angled pipe along the roots
+- Efficient
+- Plants die extremely fast when a malfunction happens
+- Plants:
+  - Salads and herbs
+  - NOT heavy, strong rooting plants
+  - Raspberries
+  
+### Aeroponic System
+- Most modern of them all
+- Active, (circulating)
+- Roots are hanging freely and get sprayed with a solution mist
+- High cost for high returns
 
-### Aeroponik-System
-- most modern of them all
-- active, (circulating)
-- roots are hanging freely and get sprayed with a solution mist
-- high cost for high returns
+## "Soil" types
+Normally the soil would contain all the nutrients, in hydroponics it "only" fixes the plants in place and sometimes stores moisture. The nutrients are delivered through a solution containing clean water and (diluted) nutrients.
 
-## "Soil"- types
-Normally the soil would contain all the nutrients, in hydroponics it "only" fixes the plants in place and sometimes stores moisture. The nutrients are delivered through a solution containing clean water and (dilluted) nutrients.
-
-There a different demands for the substrate wich no singe substrate can fully forefill:
-- pH-Wert < 6,5
-- Hohe Kapillarität
-- Hohe Luftkapazität
-- Geringer Salzgehalt
-- Hohe Wasserkapazität 
-- Hohe Strukturstabilität
-- Gute Wiederbenetzbarkeit
-- Geeigneter Nährstoffgehalt
-- Geringe mikrobielle Aktivität
-- Frei von Unkraut und Schaderregern
+There are different demands for the substrate which no single substrate can fully fulfill:
+- pH Value < 6.5
+- High Capillarity
+- High Air Capacity
+- Low Salt Content
+- High Water Capacity 
+- High Structural Stability
+- Good Re-wettability
+- Suitable Nutrient Content
+- Low Microbial Activity
+- Free from Weeds and Pests
 
 To save space and sanity, I will shorten some things. 
-Water-Capacity: WC                  (Ability to store water)
-pH-Value: ph    
-Air-Capacity: AC                    (Ability to store air/ oxygen)
-Kationenaustauschkapazität: KAK     (Ability to store and give nutrients)
+Water-Capacity: WC (Ability to store water)   
+pH-Value: pH   
+Air-Capacity: AC (Ability to store air/oxygen)   
+Cation Exchange Capacity: CEC (Ability to store and give nutrients)
 
-### Perlite
-pH-Wert	7
-Verbindung	anorganisch
-WC	niedrig
-LK	hoch
-KAK	niedrig
-Vorteile	– hohe Luftkapazität
-- gute Entwässerung
-- geringes Gewicht
-- ph-neutral
-Nachteile	
-- geringe Wasserkapazität
-Used in
-- Dripsystem
-- Aeroponics
+### Substrate Tables
 
-- vulcanic rock/glass
-- mix with vermiculit to increase WC (1:1)
+#### Perlite
+| Property        | Value                       |
+|-----------------|-----------------------------|
+| pH Value        | 7                           |
+| Composition     | Inorganic                   |
+| WC              | Low                         |
+| AC              | High                        |
+| CEC             | Low                         |
+| Advantages      | High air capacity, Good drainage, Lightweight, pH neutral |
+| Disadvantages   | Low water capacity          |
+| Used in         | Drip system, Aeroponics     |
+| Notes           | Volcanic rock/glass, Mix with vermiculite to increase WC (1:1) |
 
-### Vermiculit
-pH-Wert	6 – 7
-Verbindung	anorganisch
-WK	hoch
-LK	mittel
-KAK	hoch
-Vorteile	
-- hohe Wasserkapazität
-- hohe Kationenaustauschkapazität
-Nachteile	
-- schlechte Entwässerung
-Used in
-- Dripsystem
-- Ebb-Flood System
-- Aeoroponics
+#### Vermiculite
+| Property        | Value                       |
+|-----------------|-----------------------------|
+| pH Value        | 6 – 7                       |
+| Composition     | Inorganic                   |
+| WC              | High                        |
+| AC              | Medium                      |
+| CEC             | High                        |
+| Advantages      | High water capacity, High cation exchange capacity |
+| Disadvantages   | Poor drainage               |
+| Used in         | Drip system, Ebb-Flood System, Aeroponics |
+| Notes           | Is a layered silicate, Mix with perlite to decrease danger of root spoilage (1:1) |
 
-- ist ein Schichtsilikat
-- mix with perlite to decrease danger of root spoilage (1:1)
+#### Cotton Wool
+| Property        | Value                       |
+|-----------------|-----------------------------|
+| Notes           | Used for growing seeds before transplantation, Easily accessible, Cheap |
 
-### Watte
-- used for growing seeds before transplantation
-- easy accesibble
-- cheap
-- already here
+#### Sponge (Kitchen Sponge)
+| Property        | Value                       |
+|-----------------|-----------------------------|
+| Notes           | Horrible DIY solution, Not clear if it works, Used for pre-growing and in the system itself, Probably slightly poisonous for the plants, Plants should not be eaten because they will contain a lot of microplastics |
 
-### Schwamm (Küchenschwamm)
-- horrible DIY solution
-- not clear if it works
-- used for pre-growing and in the system itself
-- propably slightly poisenous for the plants
-- plants should not be eatend becouse they will contain a shitload of micoplastics
+#### Coconut Fiber/Coir
+| Property        | Value                       |
+|-----------------|-----------------------------|
+| pH Value        | 5.5 – 6.5                   |
+| Composition     | Organic                     |
+| WC              | High                        |
+| AC              | Medium                      |
+| CEC             | Medium                      |
+| Advantages      | High water storage capacity, Suitable for sowing, Compostable |
+| Disadvantages   | Possible waterlogging       |
+| Used in         | Drip system, Ebb-Flood System, Wick System |
+| Notes           | Mix with perlite or clay pebbles for increased O² (1:1), Is an industrial waste product |
 
-### Coconat fiber/coir
-pH-Wert	5,5 – 6,5
-Verbindung	organisch
-WC	hoch
-AC	mittel
-KAK	mittel
-Vorteile	
-- hohe Wasserspeicherkapazität
-- geeignet für die Aussaat
-- kompostierbar
-Nachteile	
-- ggf. Staunässe
-Used in
-- Dripsystem
-- Ebb-Flood System
-- Wick System
+#### Stone Wool
+| Property        | Value                       |
+|-----------------|-----------------------------|
+| Notes           | Used as building insulator, Has great values but also health risks, I won’t ever use this outside of experimenting |
 
-- mix with perlite or clay pebbles for increased O² (1:1)
-- is an industrial waste product
+#### Clay Granulate
+| Property        | Value                       |
+|-----------------|-----------------------------|
+| pH Value        | 5 – 7                       |
+| Composition     | Inorganic                   |
+| WC              | Low                         |
+| AC              | High                        |
+| CEC             | Low                         |
+| Advantages      | pH neutral, Reusable, High air capacity |
+| Disadvantages   | Low water capacity, Heavy weight |
+| Used in         | Everything                  |
+| Notes           | Created from heated iron-rich clay, Usually the go-to solution |
 
-### Stonewool
-- used as building isolator
-- has great values but also health risks
-- I won´t ever use this outside of experimenting
+#### Coconut Chips
+| Property        | Value                       |
+|-----------------|-----------------------------|
+| pH Value        | 4.5 – 6.5                   |
+| Composition     | Organic                     |
+| WC              | Low                         |
+| AC              | High                        |
+| CEC             | Medium                      |
+| Advantages      | Cation exchange capacity, High air capacity |
+| Disadvantages   | Has high buoyancy, Low water capacity |
+| Used in         | None specified              |
+| Notes           | Different from coconut fiber (more rough) |
 
-### Clay granulat
-pH-Wert	5 – 7
-Verbindung	anorganisch
-WK	niedrig
-LK	hoch
-KAK	niedrig
-Vorteile	
--  pH-neutral
-- wiederverwendbar
-- hohe Luftkapazität
-Nachteile	
-- geringe Wasserkapazität
-- hohes Gewicht
-Used in
-- everything
+#### Standard Sand
+| Property        | Value                       |
+|-----------------|-----------------------------|
+| Notes           | Technically usable, One of the first substrates, Too many downsides to be even somewhat viable given the alternatives |
 
-- created from heated ironrich clay
-- usually the go-solution
+#### Standard Gravel
+| Property        | Value                       |
+|-----------------|-----------------------------|
+| Notes           | Technically usable, One of the first substrates, Too heavy for my use-cases |
 
-### Coconat chips
-pH-Wert	4,5 – 6,5
-Verbindung	organisch
-WK	niedrig
-LK	hoch
-KAK	mittel
-Vorteile	
-- Kationenaustauschkapazität
-- Hohe Luftkapazität
-Nachteile	
-- hat einen hohen Auftrieb
-- geringe Wasserkapazität
-Used in
-- uh
-
-- differnet from coconat fiber (more rough)
-
-### Standart Sand
-- technicly usable
-- one of the first substrates
-- to many downsides to be even somewhat viable given the alternatives
-
-### Standart Gravel
-- technicly usable
-- one of the first substrates
-- to heavy for my usecases
-
-### Holzspähne
-- only use the rough ones
-
-pH-Wert	5 – 6
-Verbindung	organisch
-WK	niedrig
-LK	mittel
-KAK	niedrig
-Vorteile	
-- kompostierbar
-- günstig
-Nachteile	
-- kann Schädlinge begünstigen
+#### Wood Shavings
+| Property        | Value                       |
+|-----------------|-----------------------------|
+| pH Value        | 5 – 6                       |
+| Composition     | Organic                     |
+| WC              | Low                         |
+| AC              | Medium                      |
+| CEC             | Low                         |
+| Advantages      | Compostable, Affordable     |
+| Disadvantages   | Can favor pests             |
+| Notes           | Only use the rough ones     |
 
 ### Other
- Torfmoos, Kunststoff, SteadyGro, Growstones, Starter Plugs, Bimsstein, zerbröselte Ziegelsteine, keramische Substrate, Styroporchips und Oasis Cubes, rise hulls
- 
+Peat moss, plastic, SteadyGro, Growstones, Starter Plugs, pumice, crushed bricks, ceramic substrates, Styrofoam chips and Oasis Cubes, rice hulls
+
+## Stores
+- https://www.hydroponik-urban-gardening.de/home/hydroponik-urban-gardening-blog/?L=0
+- https://hydroponicsystems.eu/our-products/ 
+- https://dirks-growshop.de/hydroponik-systeme
+- https://growrillahydroponics.com/de/
+- https://www.lichtblick-frankfurt.de/
+
 ## Article Sources
-Different Systems: https://pflanzenfabrik.de/systeme-der-hydroponik/  
-Substrate/ Soil types: https://pflanzenfabrik.de/substrate-pflanzen/ 
- 
+Different Systems:
+- https://pflanzenfabrik.de/systeme-der-hydroponik/  
+- https://www.hydroponik-urban-gardening.de/rubriken/verschiedene-hydroponik-systeme/?L=0  
+
+Substrate/Soil types: 
+- https://pflanzenfabrik.de/substrate-pflanzen/   
+
+Fertilizer: 
+- https://pflanzenfabrik.de/hydroponik/duenger-und-naerhrstoffe/ 
+- https://www.nutrinet.agrarpraxisforschung.de/naehrstoffmanagement/naehrstoffe 
+
+
 ## Video Sources
 ### Documentary Style
+Different System types: https://www.youtube.com/watch?v=2e9a0PNLKMk  
 
 ### DIY
-Pipe based, low tech: https://www.youtube.com/watch?v=JUKUuLcA83s (Really good)
+Pipe-based, low tech: https://www.youtube.com/watch?v=JUKUuLcA83s (Really good)
 
 ### Startups
-Home Hydroponic Farm: https://www.youtube.com/watch?v=bWebs3ID6Hw (Pretty Good)
---> Homepage: https://www.simplegreenshydroponics.com/ 
+Home Hydroponic Farm: https://www.youtube.com/watch?v=bWebs3ID6Hw (Pretty Good)  
 
+Homepage: https://www.simplegreenshydroponics.com/  
 
 ### Useless but nice looking
-Korean mass farm: https://www.youtube.com/watch?v=LGF33NN4B8U 
-Animal Feed in a container: https://www.youtube.com/watch?v=TCk6LeLZF0M
-American Guy: https://www.youtube.com/watch?v=3Ww2TP_tU7o
-Tomatos indoor: https://www.youtube.com/watch?v=5Fq6PQl7fr8 (Really tall)
-Singapore Hightech Farm: https://www.youtube.com/watch?v=GKZwMdxNerU
-
+- Korean mass farm: https://www.youtube.com/watch?v=LGF33NN4B8U  
+- Animal Feed in a container: https://www.youtube.com/watch?v=TCk6LeLZF0M  
+- American Guy: https://www.youtube.com/watch?v=3Ww2TP_tU7o  
+- Tomatoes indoor: https://www.youtube.com/watch?v=5Fq6PQl7fr8 (Really tall)  
+- Singapore Hightech Farm: https://www.youtube.com/watch?v=GKZwMdxNerU
